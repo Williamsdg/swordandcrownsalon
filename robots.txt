@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Sitemap: https://swordandcrownsalon.com/sitemap.xml
